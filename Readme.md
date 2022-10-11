@@ -1,3 +1,3 @@
 This Repository Includes Reficio, the revolutionary marketing segment for Algorand.
 ==============================================================================================================
-Specially composed for the Algorand Greehouse haackathon Season 2
+Specially composed for the Algorand Greehouse hackathon Season 2
